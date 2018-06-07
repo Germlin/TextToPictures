@@ -38,10 +38,8 @@ if __name__ == "__main__":
 
 效果：
 
-<img width="50%" height="50%" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-0.jpg"/>
+<img width="50%" height="50%" style="border: 2px solid gray" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-0.jpg"/>
+<img width="50%" height="50%" style="border: 2px solid gray" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-1.jpg"/>
 
-<img width="50%" height="50%" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-1.jpg"/>
-
-<img width="50%" height="50%" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-2.jpg"/>
-
-<img width="50%" height="50%" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-3.jpg"/>
+<img width="50%" height="50%" style="border: 2px solid gray" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-2.jpg"/>
+<img width="50%" height="50%" style="border: 2px solid gray" src="https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-3.jpg"/>
