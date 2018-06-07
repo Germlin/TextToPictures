@@ -14,6 +14,7 @@
 将朱自清的《荷塘月色》转成适合在iPhone 6s上阅读的图片。
 
 代码：
+
 ```Python
 import TextToPictures as TTP
 
@@ -37,3 +38,18 @@ if __name__ == "__main__":
 
 效果：
 
+图片1
+
+![demo-0][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-0.jpg]{:height="50%" width="50%"}
+
+图片2
+
+![demo-1][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-1.jpg]{:height="50%" width="50%"}
+
+图片3
+
+![demo-2][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-2.jpg]{:height="50%" width="50%"}
+
+图片4
+
+![demo-3][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-3.jpg]{:height="50%" width="50%"}
