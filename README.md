@@ -40,16 +40,16 @@ if __name__ == "__main__":
 
 图片1
 
-![demo-0][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-0.jpg]{:height="50%" width="50%"}
+![demo-0](https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-0.jpg){:height="50%" width="50%"}
 
 图片2
 
-![demo-1][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-1.jpg]{:height="50%" width="50%"}
+![demo-1](https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-1.jpg){:height="50%" width="50%"}
 
 图片3
 
-![demo-2][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-2.jpg]{:height="50%" width="50%"}
+![demo-2](https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-2.jpg){:height="50%" width="50%"}
 
 图片4
 
-![demo-3][https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-3.jpg]{:height="50%" width="50%"}
+![demo-3](https://github.com/Reuynil/TextToPictures/blob/master/demo/demo-3.jpg){:height="50%" width="50%"}
